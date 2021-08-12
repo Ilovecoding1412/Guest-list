@@ -1,0 +1,30 @@
+input{
+    margin: 10px;
+}
+
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#display_names_with_commas{
+    border: 1px solid rgb(206, 79, 211);
+    padding: 10 px;
+    background-color: thistle;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#display_names_without_commas{
+    border: 1px solid rgb(60, 60, 214);
+    padding: 10 px;
+    background-color: lightblue;
+    border-radius: 10px;
+    width: 50%;
+}
